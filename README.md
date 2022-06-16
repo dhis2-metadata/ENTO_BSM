@@ -1,2 +1,2 @@
 # ENTO_BSM
-Entomology - Breeding Sites Monitoring
+Entomology & Vector Control- Breeding Sites Monitoring
