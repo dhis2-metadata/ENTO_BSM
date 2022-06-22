@@ -16,7 +16,7 @@ This tracker program allows the users to collect data from and monitor larvicidi
 
 ### Data Elements and Tracked Entity Attributes
 
-The full list of data elements and TEAs is available in the [Metadata Reference File](resources/metadata.xlsx)
+The full list of data elements and TEAs is available in the metadata reference file.
 
 The DEs in this program are **not shared** with any other program in the E&VC package.
 
@@ -61,12 +61,12 @@ The option lists for Larviciding active ingredient and Larvicide product reflect
 
 ### Program Rules
 
-The tracker is equipped with a number of program rules that help the logical flow of the metadata. The full list of PRs is available in the [Metadata Reference File](resources/larviciding_referece-en.xsls).
+The tracker is equipped with a number of program rules that help the logical flow of the metadata. The full list of PRs is available in the metadata reference file.
 
 ### Analytics
 
 ### Program Indicators
 
-There are a number of predefined PIs already configured in the [Metadata Reference File](resources/larviciding_referece-en.xsls). The list of PIs can be expanded depending on local analytic needs.
+There are a number of predefined PIs already configured in the metadata reference file. The list of PIs can be expanded depending on local analytic needs.
 
 ### Visualizations
