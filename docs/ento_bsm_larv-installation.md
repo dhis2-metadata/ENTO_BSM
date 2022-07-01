@@ -1,4 +1,4 @@
-# Entomology and Vector Control - Larviciding Package Installation Guide { #ento-bsm-larv-installation }
+# Breeding Site Monitoring - Larviciding Installation Guide { #ento-bsm-larv-installation }
 
 ## Installation
 
@@ -162,10 +162,10 @@ By default, the following permissions are assigned to these user groups:
 |Object                   |User Group                                     |                                                    |                                                    |
 |-------------------------|-----------------------------------------------|-----------------------------------------------------|---------------------------------------------------|
 |                         | _ENTO - Field Access_                         | _ENTO - Field Data Capture_                         | _ENTO - Field Admin_                              |
-| _*Tracked entity type*_ | Metadata : can view <br> Data: can view       | Metadata : can view <br> Data: can capture and view | Metadata : can edit and view <br> Data: No Access |
-| _*Program*_             | Metadata : can view <br> Data: can view       | Metadata : can view <br> Data: can capture and view | Metadata : can edit and view <br> Data: No Access |
-| _*Program Stages*_      | Metadata : can view <br> Data: can view       | Metadata : can view <br> Data: can capture and view | Metadata : can edit and view <br> Data: No Access |
-| _*Dashboards*_          | Metadata : can view                           | No Access                                           | Metadata : can edit and view                      |
+| _*Tracked entity type*_ | Metadata : can view <br> Data: can view       | Metadata : can view <br> Data: can capture and view | Metadata : can edit and view <br> Data: no access |
+| _*Program*_             | Metadata : can view <br> Data: can view       | Metadata : can view <br> Data: can capture and view | Metadata : can edit and view <br> Data: no access |
+| _*Program Stages*_      | Metadata : can view <br> Data: can view       | Metadata : can view <br> Data: can capture and view | Metadata : can edit and view <br> Data: no access |
+| _*Dashboards*_          | Metadata : can view                           | no access                                           | Metadata : can edit and view                      |
 
 The users are assigned to the appropriate user group based on their role within the system. Sharing for other objects in the package may be adjusted depending on the set up. Refer to the [DHIS2 Documentation on sharing](#sharing) for more information.
 
