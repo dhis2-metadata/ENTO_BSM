@@ -1,4 +1,4 @@
-# Larviciding { #larviciding }
+# Larviciding { #ento-bsm-larv-design }
 
 Larviciding is a malaria vector control intervention that consists in the regular application of biological or chemical insecticides to water bodies to kill larvae and pupae present in them. Killing  larvae or pupae will reduce the number of adult mosquitoes that there will be in the environment transmitting malaria to humans.
 
