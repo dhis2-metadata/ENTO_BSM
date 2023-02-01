@@ -4,6 +4,8 @@ Larviciding is a malaria vector control intervention that consists in the regula
 
 WHO conditionally recommends the regular application of biological or chemical insecticides to water bodies (larviciding) for the prevention and control of malaria as a supplementary intervention in areas where optimal coverage with ITNs or IRS has been achieved, where aquatic habitats are few, fixed and findable, and where its application is both feasible and cost-effective.
 
+The linked [webinar](https://youtu.be/9NwZPWGkNsU) supports this design document and further clarifies the configuration and the use cases for this module.
+
 ## Vector Control - Larviciding { #larviciding-tracker }
 
 This tracker program allows the users to collect data from and monitor larviciding campaigns, namely to collect data on larviciding application to each larval habitat and to visit the larval habitats afterwards to check on the presence/absence of larvae or pupae of different vector species.
