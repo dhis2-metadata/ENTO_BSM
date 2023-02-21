@@ -40,7 +40,7 @@ This section serves to collect the results of the monitoring visits. As a result
 The form first asks the user to enter the number of scoops and what type of mosquito larvae are present.
 If the user indicates that larvae or pupae of any species is absent, then the DE to  enter the number of larvae disappears.
 
-![Breeding site monitoring](resources/images/ento_bsm_larv-003-en.png)
+![Breeding site monitoring](resources/images/ento_bsm_larv-016-en.png)
 
 In every spoon of larvae there will likely be larvae at different stages. The user should indicate **the oldest larvae stage identified among the collected larvae** -  for example: in 3 scoops there are 10 larvae, among which there are 2nd instar and 3rd instar larvae. The user in this case should report the latest stage, the third instar, independently on the amount of other stages present. The instar-stage association should follow: early stages = to first and second larvae instars, while later stages = third and fourth instars.
 
